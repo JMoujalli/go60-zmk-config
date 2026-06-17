@@ -20,7 +20,6 @@
   },
   "layer_names": [
     "Base",
-    "Right",
     "Left",
     "Magic"
   ],
@@ -318,8 +317,7 @@
         "value": "&layer",
         "params": [
           {
-            "value": 2,
-            "params": []
+            "value": 1
           }
         ]
       },
@@ -404,10 +402,10 @@
         ]
       },
       {
-        "value": "&layer",
+        "value": "&kp",
         "params": [
           {
-            "value": 1
+            "value": "BSPC"
           }
         ]
       },
@@ -423,7 +421,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "BSPC"
+            "value": "LGUI"
           }
         ]
       },
@@ -439,7 +437,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "LGUI"
+            "value": "RET"
           }
         ]
       },
@@ -463,7 +461,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "LCTRL"
+            "value": "PG_DN"
           }
         ]
       },
@@ -479,401 +477,43 @@
         "value": "&kp",
         "params": [
           {
+            "value": "LCTRL"
+          }
+        ]
+      },
+      {
+        "value": "&mkp",
+        "params": [
+          {
+            "value": "LCLK"
+          }
+        ]
+      },
+      {
+        "value": "&mkp",
+        "params": [
+          {
+            "value": "RCLK"
+          }
+        ]
+      },
+      {
+        "value": "&kp",
+        "params": [
+          {
             "value": "SPACE"
           }
         ]
-      },
-      {
-        "value": "&mkp",
-        "params": [
-          {
-            "value": "LCLK",
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&mkp",
-        "params": [
-          {
-            "value": "RCLK",
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "RET"
-          }
-        ]
       }
     ],
     [
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F1"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F2"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F3"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F4"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F5"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F6"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F7"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F8"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F9"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F10"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F11"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_PREV"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_NEXT"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_PP"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_MUTE"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_VOL_DN"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "C_VOL_UP"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "F12"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "UP"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "UP"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
       {
         "value": "&mo",
         "params": [
           {
-            "value": 3,
-            "params": []
+            "value": 2
           }
         ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "LEFT"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "DOWN"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "RIGHT"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "LEFT"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "DOWN"
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "RIGHT"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&to",
-        "params": [
-          {
-            "value": 0,
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "DEL"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&trans",
-        "params": []
-      }
-    ],
-    [
-      {
-        "value": "&trans",
-        "params": []
       },
       {
         "value": "&kp",
@@ -1099,8 +739,7 @@
         "value": "&to",
         "params": [
           {
-            "value": 0,
-            "params": []
+            "value": 0
           }
         ]
       },
@@ -1161,19 +800,6 @@
         "params": [
           {
             "value": "RIGHT"
-          }
-        ]
-      },
-      {
-        "value": "&trans",
-        "params": []
-      },
-      {
-        "value": "&mo",
-        "params": [
-          {
-            "value": 3,
-            "params": []
           }
         ]
       },
@@ -1208,6 +834,18 @@
       {
         "value": "&trans",
         "params": []
+      },
+      {
+        "value": "&trans",
+        "params": []
+      },
+      {
+        "value": "&kp",
+        "params": [
+          {
+            "value": "PG_UP"
+          }
+        ]
       },
       {
         "value": "&trans",
